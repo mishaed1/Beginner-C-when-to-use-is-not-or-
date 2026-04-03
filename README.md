@@ -1,4 +1,4 @@
-# Beginner Csharp when to use - is not or !=
+# Beginner Csharp when to use - ``is not´´ or !=
 
 ## **`!=` vs `is not` — which should you use?**
 
