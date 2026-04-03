@@ -17,7 +17,7 @@ Use this for **value comparisons**:
 
 ```csharp
 if (x != 5) { ... }
-if (name != "Seeu") { ... }
+if (name != "Bob") { ... }
 ```
 
 It calls the type’s `!=` operator overload if one exists.
